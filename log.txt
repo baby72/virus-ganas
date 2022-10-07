@@ -1,0 +1,2 @@
+10-06 09:26:52.694  1420  3362 V InputMethodManagerService: Disabling: SessionState{uid 10248 pid 22807 method 5c5c2bf session ba663a8 channel ClientState{f24c7af uid=10248 pid=22807 displayId=0} (server)}
+10-06 09:26:52.957  1420  1741 D _V_gamevibrator: onForegroundActivitiesChanged pid:22807, uid:10248, hasFore:false
